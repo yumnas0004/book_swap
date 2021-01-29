@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "418345994096",
+    "project_id": "book-swap-3492e",
+    "storage_bucket": "book-swap-3492e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418345994096:android:d61e755f7ac9c90953f1b5",
+        "android_client_info": {
+          "package_name": "com.example.book_swap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418345994096-m69rks9n1n0m98sdh1498go6mf5adan5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_swap",
+            "certificate_hash": "98cbf44481fb6122af6fb0fe9ea20163005d5588"
+          }
+        },
+        {
+          "client_id": "418345994096-tv2nu998ulr5jecfbjjc4hfi3uivveap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALg0xwHaj0e5kLJOtYOuEBpd5oIZZb1a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418345994096-tv2nu998ulr5jecfbjjc4hfi3uivveap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
